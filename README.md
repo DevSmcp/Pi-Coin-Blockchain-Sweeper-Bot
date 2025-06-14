@@ -1,5 +1,4 @@
-<meta name="google-site-verification" content="0Kr_LLbjmNMWtdx3Hk5STVHyKW_9x4_5AXC3TSv0dbI" />
-
+<!-- google-site-verification: google0Kr_LLbjmNMWtdx3Hk5STVHyKW_9x4_5AXC3TSv0dbI.html -->
 # Pi Coin Sweeper Bot
 
 ## ⚡ Lightning-Fast Pi Coin Automation
