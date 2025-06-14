@@ -23,7 +23,7 @@ This advanced Pi Coin Sweeper Bot scans the Pi blockchain and transaction pool (
 
 ## 💰 Get Started Now
 **Available exclusively at:**  
-👉 [https://script.metclass.pro](https://metclass.pro)
+👉 [https://metclass.pro](https://metclass.pro)
 
 ## 🚀 What You'll Receive
 After purchase, you'll receive via email:
