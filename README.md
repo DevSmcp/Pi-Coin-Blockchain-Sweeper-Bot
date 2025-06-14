@@ -1,4 +1,3 @@
-<!-- google-site-verification: google0Kr_LLbjmNMWtdx3Hk5STVHyKW_9x4_5AXC3TSv0dbI.html -->
 # Pi Coin Sweeper Bot
 
 ## ⚡ Lightning-Fast Pi Coin Automation
@@ -24,7 +23,7 @@ This advanced Pi Coin Sweeper Bot scans the Pi blockchain and transaction pool (
 
 ## 💰 Get Started Now
 **Available exclusively at:**  
-👉 [https://script.metclass.pro](https://script.metclass.pro)
+👉 [https://script.metclass.pro](https://metclass.pro)
 
 ## 🚀 What You'll Receive
 After purchase, you'll receive via email:
