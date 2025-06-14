@@ -45,19 +45,3 @@ After purchase, you'll receive via email:
 - Never share seed phrases or private keys publicly
 - Bot requires access to your wallet credentials
 
-
-
-
-
-
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "SoftwareSourceCode",
-  "name": "Pi Coin Sweeper Bot",
-  "description": "Lightning-fast blockchain automation tool",
-  "url": "https://github.com/DevSmcp/Pi-Coin-Blockchain-Sweeper-Bot",
-  "codeRepository": "https://github.com/DevSmcp/Pi-Coin-Blockchain-Sweeper-Bot"
-}
-</script>
